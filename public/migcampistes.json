@@ -1,0 +1,36 @@
+[{
+    "id": 5,
+    "titulo": "Sergio Busquets",
+    "srcimg": "https://images.daznservices.com/di/library/GOAL/ae/bb/sergio-busquets-barcelona-2020-21_10x8nc95dxfdi15a23zmgxx1l8.jpg?t=-777556907&quality=100",
+    "alt": "Imatge Sergio Busquets"
+},
+{
+    "id": 8,
+    "titulo": "Miralem Pjanic",
+    "srcimg": "http://insidefutbol.com/app/uploads/2021/07/Barcelona_Miralem_Pjanic.jpg",
+    "alt": "Imatge Miralem Pjanic"
+},
+{
+    "id": 12,
+    "titulo": "Ricard Puig",
+    "srcimg": "https://www.fcbarcelonanoticias.com/uploads/s1/12/39/51/6/riqui-puig-en-la-final-de-la-supercopa.jpeg",
+    "alt": "Imatge Ricard Puig"
+},
+{
+    "id": 14,
+    "titulo": "Philippe Coutinho",
+    "srcimg": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/QQUWW723XFAFNPP466JUDW5F3A.jpg",
+    "alt": "Imatge Philippe Coutinho"
+},
+{
+    "id": 16,
+    "titulo": "Pedri",
+    "srcimg": "https://depor.com/resizer/oGGL4JJ0wgUM_N1jRcX7nOM9haI=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/24NKYL6ZO5FB3MZVWSC5S37FM4.jpg",
+    "alt": "Imatge Pedri"
+},
+{
+    "id": 21,
+    "titulo": "Frenkie de Jong",
+    "srcimg": "https://el10delbar%C3%A7a.com/wp-content/uploads/2021/01/GettyImages-1281726641.jpg",
+    "alt": "Imatge Frenkie de Jong"
+}]

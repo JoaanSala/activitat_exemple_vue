@@ -1,0 +1,42 @@
+[{
+    "id": 7,
+    "titulo": "Antoine Griezmann",
+    "srcimg": "https://www.culemania.com/uploads/s1/14/31/96/07/2987239-61300508-2560-1440.jpeg",
+    "alt": "Imatge Antoine Griezmann"
+},
+{
+    "id": 9,
+    "titulo": "Martin Braithwaite",
+    "srcimg": "https://www.larazon.es/resizer/QGBqSP_9hUq03oH3cq_iaZY98lE=/840x0/smart/filters:format(jpg)/cloudfront-eu-central-1.images.arcpublishing.com/larazon/W4QQA6YQLRH4JFKMWPXT73WRCI.JPG",
+    "alt": "Imatge Martin Braithwaite"
+},
+{
+    "id": 10,
+    "titulo": "Lionel Messi",
+    "srcimg": "https://www.fcbarcelona.com/fcbarcelona/photo/2019/05/13/d592810d-1e3d-4ecf-826f-af71e65f7edd/mini_Messi-celebraci-gol.jpg",
+    "alt": "Imatge Lionel Messi"
+},
+{
+    "id": 11,
+    "titulo": "Ousmane Dembélé",
+    "srcimg": "https://s.libertaddigital.com/2020/10/02/1920/1080/fit/0210-dembele.jpg",
+    "alt": "Imatge Ousmane Dembélé"
+},
+{
+    "id": 22,
+    "titulo": "Anssumane Fati",
+    "srcimg": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/10/30/15724545377143.jpg",
+    "alt": "Imatge Anssumane Fati"
+},
+{
+    "id": 43,
+    "titulo": "Sergio Agüero",
+    "srcimg": "https://phantom-marca.unidadeditorial.es/84f480f90439eef4023b2c2bc3cbc0c8/resize/1320/f/jpg/assets/multimedia/imagenes/2021/06/02/16226274310569.jpg",
+    "alt": "Imatge Sergio Agüero"
+},
+{
+    "id": 44,
+    "titulo": "Memphis Depay",
+    "srcimg": "https://assets-es.imgfoot.com/media/cache/642x382/memphis-depay-1920-60f9ae3f8fc02.jpg",
+    "alt": "Imatge Memphis Depay"
+}]

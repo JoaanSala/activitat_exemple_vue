@@ -1,0 +1,60 @@
+[{
+    "id": 2,
+    "titulo": "Sergiño Dest",
+    "srcimg": "https://as01.epimg.net/us/imagenes/2021/05/06/futbol/1620336644_686255_1620336795_noticia_normal_recorte1.jpg",
+    "alt": "Imatge Sergiño Dest"
+},
+{
+    "id": 3,
+    "titulo": "Gerard Piqué",
+    "srcimg": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1330x231:1332x229)/origin-imgresizer.eurosport.com/2020/11/23/2942272-60401408-2560-1440.jpg",
+    "alt": "Imatge Gerard Piqué"
+},
+{
+    "id": 4,
+    "titulo": "Ronald Araújo",
+    "srcimg": "https://www.fcbarcelonanoticias.com/uploads/s1/12/52/45/6/ronald-arauji-copa.jpeg",
+    "alt": "Imatge Ronald Araújo"
+},
+{
+    "id": 15,
+    "titulo": "Clément Lenglet",
+    "srcimg": "https://images.daznservices.com/di/library/GOAL/f6/63/lenglet-barcelona-2019-20_9yltyqrpxx0418v7g2nfbdjob.jpg?t=-1793589805&quality=100",
+    "alt": "Imatge Clément Lenglet"
+},
+{
+    "id": 18,
+    "titulo": "Jordi Alba",
+    "srcimg": "https://www.sportyou.es/blog/wp-content/uploads/2016/10/jordi-alba-3.jpg",
+    "alt": "Imatge Jordi Alba"
+},
+{
+    "id": 20,
+    "titulo": "Sergi Roberto",
+    "srcimg": "https://tmssl.akamaized.net/images/foto/normal/barcelonas-sergi-roberto-1626940119-67657.jpg?lm=1626940129",
+    "alt": "Imatge Sergi Roberto"
+},
+{
+    "id": 23,
+    "titulo": "Samuel Umtiti",
+    "srcimg": "https://www.fcbarcelonanoticias.com/uploads/s1/12/48/40/8/umtiti-sentenciado-koeman.jpeg",
+    "alt": "Imatge Samuel Umtiti"
+},
+{
+    "id": 41,
+    "titulo": "Eric Garcia",
+    "srcimg": "https://www.mundodeportivo.com/r/GODO/MD/p8/Barca/Imagenes/2021/06/05/Recortada/1321120955_20210601141539-k4OH-U494167629261bjF-980x554@MundoDeportivo-Web.jpg",
+    "alt": "Imatge Eric Garcia"
+},
+{
+    "id": 28,
+    "titulo": "Óscar Mingueza",
+    "srcimg": "https://depor.com/resizer/WkexZZbAxs8GJQxJ2DFdtjQO90Y=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/B2WQ3DRAPVDZVD5STKUC6YXNYY.jpg",
+    "alt": "Imatge Óscar Mingueza"
+},
+{
+    "id": 42,
+    "titulo": "Emerson Royal",
+    "srcimg": "https://static2-sevilla.abc.es/media/alfinaldelapalmera/2021/05/31/s/1413368288-U01803487710hGS-940x529@abc.JPG",
+    "alt": "Imatge Emerson Royal"
+}]
