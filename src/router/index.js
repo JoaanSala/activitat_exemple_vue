@@ -30,6 +30,8 @@ const routes = [
 ]
 
 const router = new VueRouter({
+  mode: "history",
+  base: 'activitat_exemple_vue',
   routes
 })
 
